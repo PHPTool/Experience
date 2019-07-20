@@ -1,5 +1,5 @@
 # Experience
-PHP Experience (经验分享)
+PHP Experience (个人经验之谈，欢迎分享)
 
 ## 概要
 - basis 基础
